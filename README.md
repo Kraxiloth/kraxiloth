@@ -1,16 +1,29 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <h1>Kraxiloth</h1>
+  <p>Official artist site. Presence. Ritual. Echo.</p>
 
-<!--
-**Kraxiloth/kraxiloth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>Contact</h2>
+  <ul>
+    <li>Primary: <a href="mailto:contact@kraxiloth.gg">contact@kraxiloth.gg</a></li>
+    <li>Also reachable at: <a href="mailto:kraxiloth@proton.me">kraxiloth@proton.me</a></li>
+  </ul>
 
-Here are some ideas to get you started:
+  <h2>Listen</h2>
+  <p>
+    <a href="https://open.spotify.com/artist/1FZyBVkh3swMiIOKlVaV6U" target="_blank">Spotify</a> |
+    <a href="https://soundcloud.com/kraxiloth" target="_blank">SoundCloud</a>
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>Follow</h2>
+  <p>
+    <a href="https://twitter.com/kraxiloth" target="_blank">Twitter</a> |
+    <a href="https://www.instagram.com/kraxiloth" target="_blank">Instagram</a>
+  </p>
+</body>
+</html>
