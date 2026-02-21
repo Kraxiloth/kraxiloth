@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Kraxiloth</h1>
-  <p>Official artist site. Presence. Ritual. Echo.</p>
+  <p>Not really a programmer.</p>
 
   <h2>Contact</h2>
   <ul>
