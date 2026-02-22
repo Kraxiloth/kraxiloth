@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Kraxiloth</h1>
-  <p>Not really a programmer.</p>
+  <p>I use AI-assisted development for research and acceleration, but I architect, review, and own the codebase.</p>
 
   <h2>Contact</h2>
   <ul>
