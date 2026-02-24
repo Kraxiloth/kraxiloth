@@ -1,29 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1>Kraxiloth</h1>
-  <p>I use AI-assisted development for research and acceleration, but I architect, review, and own the codebase.</p>
+# Hi, I'm Kraxiloth 👋
 
-  <h2>Contact</h2>
-  <ul>
-    <li>Primary: <a href="mailto:contact@kraxiloth.gg">contact@kraxiloth.gg</a></li>
-    <li>Also reachable at: <a href="mailto:kraxiloth@proton.me">kraxiloth@proton.me</a></li>
-  </ul>
+Indie developer creating practical web tools for **Sorcery: Contested Realm** players and collectors.
 
-  <h2>Listen</h2>
-  <p>
-    <a href="https://open.spotify.com/artist/1FZyBVkh3swMiIOKlVaV6U" target="_blank">Spotify</a> |
-    <a href="https://soundcloud.com/kraxiloth" target="_blank">SoundCloud</a>
-  </p>
+I use AI-assisted development to research and accelerate, but I architect, review, refine, deploy, and fully own every codebase.
 
-  <h2>Follow</h2>
-  <p>
-    <a href="https://twitter.com/kraxiloth" target="_blank">Twitter</a> |
-    <a href="https://www.instagram.com/kraxiloth" target="_blank">Instagram</a>
-  </p>
-</body>
-</html>
+### Current Focus
+- In-game resource & threshold tracking
+- Private trade post formatting & pricing
+- Community utilities for a growing niche TCG
+
+### Featured Projects
+- **[ResTracker](https://github.com/Kraxiloth/ResTracker)** — Mana, thresholds, life & play aid (successful community tool)
+- **[CardScribe](https://github.com/Kraxiloth/CardScribe)** — Paste → parse → priced → polished Discord trade posts (live at cardscribe.sorcery.no)
+- **[Sorcery](https://github.com/Kraxiloth/Sorcery)** — Main hub & experiments
+- **[MountMimic](https://github.com/Kraxiloth/MountMimic)** — A simple World of Warcraft addon to help you match the mount your target uses (if you have it in your collection).
+
+### Get in Touch
+- Email: kraxiloth@proton.me (primary for dev/TCG stuff)
+- Discord: @kraxiloth
+- Website: https://kraxiloth.gg for my personal page. https://sorcery.no for my current projects.
+
+Open to collab on Sorcery tools or similar niche projects. Opponents, not enemies. 😉
