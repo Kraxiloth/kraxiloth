@@ -12,6 +12,7 @@ I use AI-assisted development to research and accelerate, but I architect, revie
 ### Featured Projects
 - **[ResTracker](https://github.com/Kraxiloth/ResTracker)** — Mana, thresholds, life & play aid (successful community tool)
 - **[CardScribe](https://github.com/Kraxiloth/CardScribe)** — Paste → parse → priced → polished Discord trade posts (live at cardscribe.sorcery.no)
+- **[TCG Scanner](https://github.com/Kraxiloth/Scanner)** — Use your cell phone to scan TCG cards against a database of known cards to build your collection.
 - **[Sorcery](https://github.com/Kraxiloth/Sorcery)** — Main hub & experiments
 - **[MountMimic](https://github.com/Kraxiloth/MountMimic)** — A simple World of Warcraft addon to help you match the mount your target uses (if you have it in your collection).
 
