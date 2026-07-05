@@ -2,7 +2,7 @@
 
 Indie developer creating practical web tools for **Sorcery: Contested Realm** players and collectors.
 
-I use AI-assisted development to research and accelerate, but I architect, review, refine, deploy, and fully own every codebase.
+I use AI as a development assistant to research, prototype, and accelerate implementation. I design the architecture, make the technical decisions, review every change, and take responsibility for the finished software.
 
 ### Current Focus
 - In-game resource & threshold tracking
